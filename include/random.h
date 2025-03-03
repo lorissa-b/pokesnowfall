@@ -223,5 +223,6 @@ u32 RandomWeightedArrayDefault(enum RandomTag, u32 sum, u32 n, const u8 *weights
 const void *RandomElementArrayDefault(enum RandomTag, const void *array, size_t size, size_t count);
 
 u8 RandomWeightedIndex(u8 *weights, u8 length);
+u16 RandRange(u16 min, u16 max);
 
 #endif // GUARD_RANDOM_H
