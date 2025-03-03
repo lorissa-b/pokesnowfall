@@ -1,8 +1,7 @@
-title: YOUR TITLE
-description: YOUR DESCRIPTION
+title: Pokemon Snowfall
+description: A Pokemon Emerald hack set fifteen years into the future
 theme: just-the-docs
 
 url: https://lorissa-b.github.io/pokesnowfall
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+heading_anchors: true
