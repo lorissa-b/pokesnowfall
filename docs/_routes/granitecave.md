@@ -19,6 +19,7 @@ layout: default
 | ![Aron](https://serebii.net/pokedex-sm/icon/304.png) | Aron | Rock Smash | 15 | 5% |
 
 ## Trainers
+
 | Trainer | Pokemon |
 |:--------|:--------|
 | ?       | ?       |

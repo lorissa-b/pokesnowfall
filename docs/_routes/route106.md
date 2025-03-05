@@ -30,6 +30,7 @@ layout: default
 | ![Gyarados](https://serebii.net/pokedex-sm/icon/130.png) | Gyarados | Surfing | 30 - 35 | 5% |
 
 ## Trainers
+
 | Trainer | Pokemon |
 |:--------|:--------|
 | Fisherman Elliot | Magikarp (9) / Tentacool (3) / Magikarp (5) |
