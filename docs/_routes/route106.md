@@ -31,7 +31,7 @@ layout: default
 
 ## Trainers
 | Trainer | Pokemon |
-|:--------|:-------:|
+|:--------|:--------|
 | Fisherman Elliot | Magikarp (9) / Tentacool (3) / Magikarp (5) |
 | Lass Eve | Sentret (4) / Wingull (3) |
 | Triathlete Douglas | Krabby (3) / Zigzagoon (3) |

@@ -1,5 +1,5 @@
 ---
-title: /#211 - Qwilfish
+title: 211 - Qwilfish
 layout: default
 parent: Johto
 ---

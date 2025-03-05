@@ -20,5 +20,5 @@ layout: default
 
 ## Trainers
 | Trainer | Pokemon |
-|:--------|:-------:|
-| ? | ? |
+|:--------|:--------|
+| ?       | ?       |
