@@ -1,0 +1,4 @@
+---
+title: Kanto
+layout: default
+---

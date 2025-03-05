@@ -1,6 +1,6 @@
 ---
-title: Qwilfish
+title: /#211 - Qwilfish
 layout: default
-parent: Pokemon Updates
+parent: Johto
 ---
 # Qwilfish
