@@ -16,7 +16,7 @@ parent: Kanto
 | ^^                                                                                 |           | 0  | 0   | 0   | 0       | 0       | 0   | 0   |
 ```
 {% endcapture %}
+<div markdown="0">{% include fancy-tables.liquid markdown=table %}</div>
 
 # Sandslash
 
-{% include fancy-tables.liquid markdown=table %}
