@@ -2,4 +2,6 @@
 layout: default
 ---
 
-{% include fancy-tables.liquid html=content %}
+{% capture content %}{% include fancy-tables.liquid html=content %}{% endcapture %}
+
+{{ content }}
