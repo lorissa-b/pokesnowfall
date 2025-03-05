@@ -7,18 +7,21 @@ parent: Kanto
 # Sandshrew
 ## Stats
 
+**Type:** Ground
+**Abilities:** Sand Veil / Sand Rush
+
 {% capture table %}
 ```table
-| Abilities       | HP | ATK | DEF | SP. ATK | SP. DEF | SPD | BST |
-|-----------------|----|-----|-----|---------|---------|-----|-----|
-| Sand Veil       | 50 | 75  | 85  | 20      | 30      | 40  | 300 |
-| Sand Rush       | ^^ | ^^  | ^^  | ^^      | ^^      | ^^  | ^^  |
-| Sand Force (HA) | 0  | 0   | 0   | 0       | 0       | 0   | 0   |
+| HP | ATK | DEF | SP. ATK | SP. DEF | SPD | BST |
+|----|-----|-----|---------|---------|-----|-----|
+| 50 | 75  | 85  | 20      | 30      | 40  | 300 |
+| ^^ | ^^  | ^^  | ^^      | ^^      | ^^  | ^^  |
+| 0  | 0   | 0   | 0       | 0       | 0   | 0   |
 ```alignment
-LCCCCCCC
-LCCCCCCC
-LCCCCCCC
-LCCCCCCC
+CCCCCCC
+CCCCCCC
+CCCCCCC
+CCCCCCC
 ```
 {% endcapture %}
 <div markdown="0">{% include fancy-tables.liquid markdown=table %}</div>
