@@ -9,9 +9,18 @@ heading_anchors: true
 collections:
   routes:
     output: true
+  stats:
+    output: false
+  kanto:
+    output: true
 
 just_the_docs:
   collections:
     routes:
       name: Routes, Cities & Landmarks
+      nav_fold: true
+    stats:
+      name: Pokemon Stats
+    kanto:
+      name: Kanto
       nav_fold: true
