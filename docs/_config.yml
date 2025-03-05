@@ -10,8 +10,6 @@ collections:
   routes:
     output: true
   stats:
-    output: false
-  kanto:
     output: true
 
 just_the_docs:
@@ -20,7 +18,4 @@ just_the_docs:
       name: Routes, Cities & Landmarks
       nav_fold: true
     stats:
-      name: Pokemon Stats
-    kanto:
-      name: Kanto
-      nav_fold: true
+      name: Pokemon
