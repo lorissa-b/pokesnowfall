@@ -34,20 +34,18 @@ layout: default
 | ![Shellder](https://serebii.net/pokedex-sm/icon/090.png)  | Shellder  | ![](https://archives.bulbagarden.net/media/upload/f/f7/Bag_Super_Rod_III_Sprite.png) | Super Rod | 25      | 15%  |
 | ![Crawdaunt](https://serebii.net/pokedex-sm/icon/342.png) | Crawdaunt | ![](https://archives.bulbagarden.net/media/upload/f/f7/Bag_Super_Rod_III_Sprite.png) | Super Rod | 25      | 5%   |
 ```alignment
-CLCLCC
-CCCCCC
-CLCLCC
+CCCC
 CLCLCC
 CLCLCC
 CLCLCC
 CLCLCC
 CLCLCC
-CCCCCC
+C
 CLCLCC
 CLCLCC
 CLCLCC
 CLCLCC
-CCCCCC
+C
 CLCLCC
 CLCLCC
 CLCLCC
