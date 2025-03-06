@@ -33,6 +33,30 @@ layout: default
 | ![Staryu](https://serebii.net/pokedex-sm/icon/120.png)    | Staryu    | ![](https://archives.bulbagarden.net/media/upload/f/f7/Bag_Super_Rod_III_Sprite.png) | Super Rod | 25      | 40%  |
 | ![Shellder](https://serebii.net/pokedex-sm/icon/090.png)  | Shellder  | ![](https://archives.bulbagarden.net/media/upload/f/f7/Bag_Super_Rod_III_Sprite.png) | Super Rod | 25      | 15%  |
 | ![Crawdaunt](https://serebii.net/pokedex-sm/icon/342.png) | Crawdaunt | ![](https://archives.bulbagarden.net/media/upload/f/f7/Bag_Super_Rod_III_Sprite.png) | Super Rod | 25      | 5%   |
+```alignment
+CLCLCC
+CCCCCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CCCCCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CCCCCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
+CLCLCC
 ```
 {% endcapture %}
 
