@@ -9,7 +9,6 @@ layout: default
 
 {% capture table %}
 ```table
-
 | Pokemon       \| Location    \| Levels | Rate |
 |:----:|:--------|:----:|:-----:|:------:|-----:|
 | Grass\        \       \       \        \      |
