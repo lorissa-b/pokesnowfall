@@ -7,7 +7,7 @@ parent: Kanto
 # ![Sandshrew](https://serebii.net/pokedex-sm/icon/027.png) Sandshrew
 ## Stats
 
-![Ground](https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png)  
+![Ground](https://archives.bulbagarden.net/media/upload/thumb/b/bd/GroundIC_BDSP.png/70px-GroundIC_BDSP.png)  
 Sand Veil / Sand Rush  
 **Evolves at 22**
 
@@ -33,7 +33,7 @@ Sand Veil / Sand Rush
 | 22 | Slash        |
 | 24 | Dig          |
 | 28 | Sandstorm    |
-| 32 | Crush Claw   |
+| 32 | Crush Claw   | 
 | 35 | Gyro Ball    |
 | 39 | Swords Dance |
 | 43 | Earthquake   |
@@ -46,7 +46,7 @@ Sand Veil / Sand Rush
 # ![Sandslash](https://serebii.net/pokedex-sm/icon/028.png) Sandslash
 ## Stats
 
-![Ground](https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png)   
+![Ground](https://archives.bulbagarden.net/media/upload/thumb/b/bd/GroundIC_BDSP.png/70px-GroundIC_BDSP.png)   
 Sand Veil / Sand Rush  
 **Final Evolution**
 
@@ -61,7 +61,7 @@ Sand Veil / Sand Rush
 {% capture table %}
 ```table
 |:---:|:-------------|
-| Evo |
+| Evo | Slash        |
 | 1   | Scratch      |
 | 1   | Defense Curl |
 | 5   | Sand Attack  |
@@ -69,10 +69,10 @@ Sand Veil / Sand Rush
 | 10  | Bulldoze     |
 | 13  | Sand Tomb    |
 | 17  | Swift        |
-| 19 | Fury Cutter   |
-| 24  | Slash        |
+| 19  | Fury Cutter  |
+| 22  | Slash        |
 | 26  | Dig          |
-| 30  | Sandstorm    |
+| 30  | Sandstorm    | 
 | 34  | Crush Claw   |
 | 37  | Gyro Ball    |
 | 41  | Swords Dance |
@@ -85,8 +85,8 @@ Sand Veil / Sand Rush
 # ![Alolan Sandshrew](https://serebii.net/pokedex-sm/icon/027-a.png) Alolan Sandshrew
 ## Stats
 
-![Ice](https://archives.bulbagarden.net/media/upload/thumb/1/15/Ice_icon_SwSh.png/64px-Ice_icon_SwSh.png)![Steel](https://archives.bulbagarden.net/media/upload/thumb/0/09/Steel_icon_SwSh.png/64px-Steel_icon_SwSh.png)  
-Snow Cloak / Slush Rush  
+![Ice](https://archives.bulbagarden.net/media/upload/thumb/1/11/IceIC_BDSP.png/70px-IceIC_BDSP.png) ![Steel](https://archives.bulbagarden.net/media/upload/thumb/5/5f/SteelIC_BDSP.png/70px-SteelIC_BDSP.png)  
+Snow Cloak / Slush Rush / Ice Scales (HA)  
 Evolves at 22
 
 | HP | ATK | DEF | SP. ATK | SP. DEF | SPD | BST |
@@ -122,8 +122,8 @@ Evolves at 22
 # ![Alolan Sandslash](https://serebii.net/pokedex-sm/icon/028-a.png) Alolan Sandslash
 ## Stats
 
-![Ice](https://archives.bulbagarden.net/media/upload/thumb/1/15/Ice_icon_SwSh.png/64px-Ice_icon_SwSh.png)![Steel](https://archives.bulbagarden.net/media/upload/thumb/0/09/Steel_icon_SwSh.png/64px-Steel_icon_SwSh.png)  
-Snow Cloak / Slush Rush  
+![Ice](https://archives.bulbagarden.net/media/upload/thumb/1/11/IceIC_BDSP.png/70px-IceIC_BDSP.png) ![Steel](https://archives.bulbagarden.net/media/upload/thumb/5/5f/SteelIC_BDSP.png/70px-SteelIC_BDSP.png)  
+Snow Cloak / Slush Rush / Ice Scales (HA)  
 Final Evolution
 
 | HP | ATK  | DEF  | SP. ATK | SP. DEF | SPD | BST |
